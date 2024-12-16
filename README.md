@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/sehrish-aslam-55555s/](https://www.linkedin.com/in/sehrish-aslam-55555s/)
 
-- ⚡ Fun fact **Ask me about parenting**
+- ⚡ Fun fact **Debugging code is easier than convincing a toddler why they can't eat ice-cream for dinner.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
