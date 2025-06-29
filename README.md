@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sehrishhussain&label=Profile%20views&color=0e75b6&style=flat" alt="sehrishhussain" /> </p>
 
-- 🔭 I’m currently working on [backend using Node.js, Express and MongoDB](https://github.com/SehrishHussain/chai-backend)
+- 🔭 I’m currently working on [Mystery Message](https://github.com/SehrishHussain/misterymessage/tree/master) and [Travel Safe](https://github.com/SehrishHussain/hunza-traveltrack) using Next.js
 
-- 🌱 I’m currently learning **backend using MERN stack**
+- 🌱 I’m currently learning **Next.js, TypeScript, Leaflet** by building projects
 
 - 👯 I’m looking to collaborate on **Frontend projects**
 
