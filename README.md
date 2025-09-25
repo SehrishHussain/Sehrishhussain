@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Next.js, TypeScript, Leaflet** by building projects
 
-- 👯 I’m looking to collaborate on **Frontend projects**
+- 👯 I’m looking to collaborate on **Full-stack projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SehrishHussain](https://github.com/SehrishHussain)
 
