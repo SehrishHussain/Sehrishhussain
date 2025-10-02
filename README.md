@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Blogify](https://github.com/SehrishHussain/Blogify) and [Travel Safe](https://github.com/SehrishHussain/hunza-traveltrack) using Next.js
 
-- 🌱 I’m currently learning **Next.js, TypeScript, Leaflet** by building projects
+- 🌱 I’m currently learning **Next.js, TypeScript, and backend development by building projects
 
 - 👯 I’m looking to collaborate on **Full-stack projects**
 
