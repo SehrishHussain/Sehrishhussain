@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sehrishhussain&label=Profile%20views&color=0e75b6&style=flat" alt="sehrishhussain" /> </p>
 
-- 🔭 I’m currently working on [Blogify](https://github.com/SehrishHussain/Blogify) and [Travel Safe](https://github.com/SehrishHussain/hunza-traveltrack) using Next.js
+- 🔭 I’m currently working on [Eclipse Adoptium](https://adoptium.net/en-GB) and [Travel Safe](https://github.com/SehrishHussain/hunza-traveltrack) using Next.js
 
 - 🌱 I’m currently learning **Next.js, TypeScript, and backend development by building projects
 
