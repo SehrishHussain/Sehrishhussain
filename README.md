@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sehrishhussain&label=Profile%20views&color=0e75b6&style=flat" alt="sehrishhussain" /> </p>
 
-- 🔭 I’m currently working on [Eclipse Adoptium](https://adoptium.net/en-GB) and [GlofNet](https://github.com/SehrishHussain/glofnet) using Next.js
+- 🔭 I’m currently working on [Eclipse Adoptium](https://adoptium.net/en-GB) and [GlofNet](https://github.com/SehrishHussain/glofnet) using Python, GeoPandas, Google Earth Engine, Shapely, QGIS
 
-- 🌱 I’m currently learning **Next.js, TypeScript, and backend development by building projects
+- 🌱 I'm currently building reproducible geospatial data engineering pipelines for Earth Observation and AI-ready climate datasets using Python, Google Earth Engine, GeoPandas, and remote sensing data.
 
-- 👯 I’m looking to collaborate on **Full-stack projects**
+- 👯 I’m looking to collaborate on **software engineering, data engineering, Earth Observation, and AI for climate applications.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SehrishHussain](https://github.com/SehrishHussain)
 
