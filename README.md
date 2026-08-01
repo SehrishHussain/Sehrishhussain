@@ -1,23 +1,23 @@
 <h1 align="center">Hi 👋, I'm Sehrish Aslam</h1>
-<h3 align="center">🔧 A passionate Software Engineer | 🚀 I strive to develop solutions that address real-world challenges | 💡 Always building and learning something new</h3>
+<h3 align="center"> A software engineer striving to develop solutions that address real-world challenges | Always building and learning something new</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sehrishhussain&label=Profile%20views&color=0e75b6&style=flat" alt="sehrishhussain" /> </p>
 
-- 🔭 I’m currently working on [Eclipse Adoptium](https://adoptium.net/en-GB) and [CryoFusion](https://github.com/SehrishHussain/glofnet) using Python, GeoPandas, Google Earth Engine, Shapely, QGIS
+-  I’m currently working on [Eclipse Adoptium](https://adoptium.net/en-GB) and [CryoFusion](https://github.com/SehrishHussain/glofnet) using Python, GeoPandas, Google Earth Engine, Shapely, QGIS
 
-- 🌱 I'm currently building reproducible geospatial data engineering pipelines for Earth Observation and AI-ready climate datasets using Python, Google Earth Engine, GeoPandas, and remote sensing data.
+-  I'm currently building reproducible geospatial data engineering pipelines for Earth Observation and AI-ready climate datasets using Python, Google Earth Engine, GeoPandas, and remote sensing data.
 
-- 👯 I’m looking to collaborate on **software engineering, data engineering, Earth Observation, and AI for climate applications.**
+-  I’m looking to collaborate on **software engineering, data engineering, Earth Observation, and AI for climate applications.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/SehrishHussain](https://github.com/SehrishHussain)
+-  All of my projects are available at [https://github.com/SehrishHussain](https://github.com/SehrishHussain)
 
-- 💬 Ask me about **react, javascript, python**
+-  Ask me about **react, javascript, python**
 
-- 📫 How to reach me **sehrishaslam091@gmail.com**
+-  How to reach me **sehrishaslam091@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/sehrish-aslam-55555s/](https://www.linkedin.com/in/sehrish-aslam-55555s/)
+-  Know about my experiences [https://www.linkedin.com/in/sehrish-aslam-55555s/](https://www.linkedin.com/in/sehrish-aslam-55555s/)
 
-- ⚡ Fun fact **Debugging code is easier than convincing a toddler why they can't eat ice-cream for dinner.**
+-  Fun fact **Debugging code is easier than convincing a toddler why they can't eat ice-cream for dinner.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
